@@ -1,0 +1,9 @@
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath/CMakeFiles/mymath.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath2/CMakeFiles/mymath2.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath2/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab1/cmake-build-debug/mymath2/CMakeFiles/rebuild_cache.dir

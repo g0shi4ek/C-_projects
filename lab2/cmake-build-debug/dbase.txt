@@ -1,0 +1,5 @@
+4
+paegwr		10	1	10
+aegse		11	2	11
+bsegse		5	6	5
+dth		3	4	3

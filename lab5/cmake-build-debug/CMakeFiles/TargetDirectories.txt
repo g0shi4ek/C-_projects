@@ -1,0 +1,6 @@
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/set/CMakeFiles/set.dir
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/set/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab5/cmake-build-debug/set/CMakeFiles/rebuild_cache.dir

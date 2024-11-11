@@ -1,0 +1,9 @@
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/CMakeFiles/lab2.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/planeta/CMakeFiles/planeta.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/planeta/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/planeta/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/dom/CMakeFiles/dom.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/dom/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab2/cmake-build-debug/dom/CMakeFiles/rebuild_cache.dir

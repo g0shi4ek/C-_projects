@@ -1,0 +1,6 @@
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/CMakeFiles/lab6.dir
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/uravn/CMakeFiles/uravn.dir
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/uravn/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab6/cmake-build-debug/uravn/CMakeFiles/rebuild_cache.dir

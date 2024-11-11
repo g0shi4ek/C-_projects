@@ -1,0 +1,10 @@
+# ninja log v5
+15	1081	7295944542304320	CMakeFiles/lab1.dir/main.cpp.obj	39a01f995c4142f5
+2	220	7295944533591064	CMakeFiles/lab1.dir/mymath/mymath.cpp.obj	88719e2fae8dea69
+25	233	7295944533834195	CMakeFiles/lab1.dir/mymath2/mymath2.cpp.obj	6668669fdd0dad6b
+234	688	7295948588540033	mymath2/libmymath2.a	1328a81705813770
+691	1027	7295948591835359	lab1.exe	bc6804d9bdf17b98
+1	511	7295988467592183	build.ninja	cfcd88a2d210074f
+22	221	7295948583890316	mymath/CMakeFiles/mymath.dir/mymath.cpp.obj	b3f8e433c8652f00
+11	233	7295948583890316	mymath2/CMakeFiles/mymath2.dir/mymath2.cpp.obj	d2298dff42df84
+222	690	7295948588569893	mymath/libmymath.a	9e884fd425794bc8

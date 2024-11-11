@@ -1,0 +1,6 @@
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/human/CMakeFiles/human.dir
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/human/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab7/cmake-build-debug/human/CMakeFiles/rebuild_cache.dir

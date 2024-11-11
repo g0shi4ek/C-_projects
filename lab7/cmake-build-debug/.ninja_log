@@ -1,0 +1,5 @@
+# ninja log v5
+7	1727	7344335714817377	CMakeFiles/lab7.dir/main.cpp.obj	52f6d5e46edf86b
+12	1319	7344336398742134	human/CMakeFiles/human.dir/workers.cpp.obj	957c29ea85840ebb
+1320	1456	7344336400152235	human/libhuman.a	4392b2ec0e5bb891
+1457	1737	7344336402882448	lab7.exe	c5c061e0ac034cba

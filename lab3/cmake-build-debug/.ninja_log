@@ -1,0 +1,8 @@
+# ninja log v5
+11	1513	7311133891554152	CMakeFiles/lab3.dir/fraction.cpp.obj	d7dc0652f29d524a
+1	1168	7320200854094590	build.ninja	ef1a8f2e948ce201
+14	1904	7314187073052008	CMakeFiles/lab3.dir/main.cpp.obj	e64ac222b982ea4b
+232	742	7320184376507428	lab3.exe	1d29e1a97868ffdc
+21	1593	7314185897713208	fraction/CMakeFiles/fraction.dir/fraction.cpp.obj	da122924c12d5a58
+8	229	7320184371476557	CMakeFiles/lab3.dir/C_/Users/dassa/CLionProjects/templates/lab4/stack/stack.cpp.obj	3350d68bcfef7f74
+1594	1791	7314185899753368	fraction/libfraction.a	9ceed88af878b0ec

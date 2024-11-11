@@ -1,0 +1,6 @@
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/stack/CMakeFiles/stack.dir
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/stack/CMakeFiles/edit_cache.dir
+C:/Users/dassa/CLionProjects/templates/lab4/cmake-build-debug/stack/CMakeFiles/rebuild_cache.dir
